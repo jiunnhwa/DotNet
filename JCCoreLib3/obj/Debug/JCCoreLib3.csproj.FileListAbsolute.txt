@@ -1,0 +1,6 @@
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\bin\Debug\JCCoreLib3.dll
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\bin\Debug\JCCoreLib3.pdb
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\obj\Debug\JCCoreLib3.csproj.AssemblyReference.cache
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\obj\Debug\JCCoreLib3.csproj.CoreCompileInputs.cache
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\obj\Debug\JCCoreLib3.dll
+C:\Users\FX1\source\repos\NET\JCCoreLib3\JCCoreLib3\obj\Debug\JCCoreLib3.pdb
